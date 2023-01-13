@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "apollo-client-preset": "^1.0.8",
+    "dayjs": "^1.11.6",
+    "moment": "^2.29.4"
+  }
+}

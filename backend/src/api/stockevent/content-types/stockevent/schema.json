@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stockevents",
+  "info": {
+    "singularName": "stockevent",
+    "pluralName": "stockevents",
+    "displayName": "stockevent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "quantity": {
+      "type": "integer"
+    }
+  }
+}
